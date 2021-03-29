@@ -4,7 +4,7 @@ class Food{
   
       this.foodStick = 0;
       this.lastFed;
-      this.image = loadImage('Images/ Milk.png');
+      this.image = loadImage('images/Milk.png');
   
     } 
   
